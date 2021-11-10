@@ -1,9 +1,9 @@
 {
     "id": 1,
-	"symbol": "TFV",
-    "name": "The Field Video",
+	"symbol": "EMC_2",
+    "name": "ElectronicMusicCollection_2",
     "image": "https://raw.githubusercontent.com/PanHH/Test/master/resources/0.jpg",
 	"animation_url": "https://raw.githubusercontent.com/PanHH/Test/master/resources/0.mp4",
-	"description": "<p>A video</p>",
+	"description": "<p>A mp4 from github by PAN</p>",
 	"external_url": "https://github.com/PanHH/Test"
 }
