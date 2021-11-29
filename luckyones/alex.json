@@ -1,8 +1,6 @@
 {
-    "id": 2,
-    "name": "THE_MUSIC_VIDEO_1",
+    "name": "alex",
     "image": "https://raw.githubusercontent.com/zzqAlex/Test/master/resources/72f7a65baa661a8531d832213a4233bc.jpg",
 	"animation_url": "https://raw.githubusercontent.com/zzqAlex/Test/master/resources/hello_2021_11_11_18_33_12.mp3",
-	"description": "<p>A video by SM8450</p>",
-	"external_url": "https://raw.githubusercontent.com/zzqAlex/Test/master/resources/1.json"
+	"description": "<p>inside story</p>"
 }
